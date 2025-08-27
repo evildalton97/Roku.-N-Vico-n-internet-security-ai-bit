@@ -1,0 +1,30 @@
+# Project Structure
+
+```
+aegis-cam-ai/
+├── src/
+│   ├── components/
+│   │   ├── ui/
+│   │   └── features/
+│   ├── pages/
+│   ├── hooks/
+│   ├── utils/
+│   ├── api/
+│   └── styles/
+├── public/
+├── tests/
+├── docs/
+├── package.json
+├── README.md
+└── .gitignore
+```
+
+## Folder Descriptions
+
+- **src/**: Source code directory
+- **components/**: Reusable React components
+- **pages/**: Page components and routing
+- **hooks/**: Custom React hooks
+- **utils/**: Utility functions and helpers
+- **api/**: API integration and services
+- **public/**: Static assets
